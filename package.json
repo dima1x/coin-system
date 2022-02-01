@@ -1,0 +1,11 @@
+{
+  "name": "coin-system",
+  "version": "1.1.0",
+  "description": "Coin System.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "dima1x",
+  "license": "ISC"
+}
