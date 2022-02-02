@@ -1,11 +1,25 @@
 {
   "name": "coin-system",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Coin System.",
   "main": "index.js",
   "scripts": {
     
   },
   "author": "dima1x",
-  "license": "ISC"
+  "keywords": [
+		"coin",
+    "coin-system",
+    "coins",
+    "money",
+    "Coin System"
+	],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/dima1x/coin-system.git"
+	},
+  "bugs": {
+		"url": "https://github.com/dima1x/coin-system/issues"
+	},
+  "license": "MIT"
 }
